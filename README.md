@@ -9,7 +9,7 @@
 
 The robot uses an **ESP8266 NodeMCU**, receives joystick commands via **UDP**, detects **laser hits using an LDR**, and sends scores to a **live leaderboard server**.
 
-This repository is used in a **hands-on robotics workshop** where participants learn how to test hardware, understand firmware, and run the complete robot system.
+This repository is used for the **Spider R&D VyperBot workshop** where participants learn how to test hardware, understand firmware, and run the complete robot system.
 
 ---
 
