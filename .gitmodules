@@ -4,3 +4,6 @@
 [submodule "spider_workshop_website"]
 	path = spider_workshop_website
 	url = https://github.com/paulrobertmaliyakal-stack/spider_workshop_website
+[submodule "JOYSTICK_APP"]
+	path = JOYSTICK_APP
+	url = https://github.com/Inilahs-0618/JOYSTICK_APP
