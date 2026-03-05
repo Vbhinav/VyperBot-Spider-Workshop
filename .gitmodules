@@ -1,0 +1,6 @@
+[submodule "VyperBot-firmware-2026"]
+	path = VyperBot-firmware-2026
+	url = https://github.com/Vbhinav/VyperBot-firmware-2026
+[submodule "spider_workshop_website"]
+	path = spider_workshop_website
+	url = https://github.com/paulrobertmaliyakal-stack/spider_workshop_website
