@@ -4,7 +4,6 @@
 ![ESP8266](https://img.shields.io/badge/Controller-ESP8266-blue)
 ![Arduino](https://img.shields.io/badge/Firmware-Arduino-green)
 ![UDP](https://img.shields.io/badge/Networking-UDP-orange)
-![Workshop](https://img.shields.io/badge/Purpose-Robotics%20Workshop-purple)
 
 **VyperBot** is a small WiFi-controlled robotics platform designed for teaching **embedded systems, networking, and robotics**.
 
